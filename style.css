@@ -716,6 +716,12 @@ h3 {
     color: #333333!important;
 }
 
+h5,
+h6{
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
