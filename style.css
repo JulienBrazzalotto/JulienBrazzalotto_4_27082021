@@ -703,6 +703,11 @@ p {
     font-weight: 700;
 }
 
+footer ul,
+footer li{
+    list-style: none;
+}
+
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
