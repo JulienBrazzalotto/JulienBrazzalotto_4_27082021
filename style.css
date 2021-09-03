@@ -703,9 +703,29 @@ p {
     font-weight: 700;
 }
 
+footer ul{
+    list-style: none;
+}
+
+footer section ul{
+    padding: 0;
+}
+
+footer .col-sm-4 li{
+    padding: 5px;
+}
+
+footer .col-sm-4 a{
+    width: auto;
+}
+
+.col-sm-4{
+    color: white;
+}
+
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
 }
 
 h2 {
@@ -1031,6 +1051,11 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    footer .padding,
+    footer .col-sm-4{
+    padding: 0;
+}
 }
 
 @media (max-width: 400px) {
