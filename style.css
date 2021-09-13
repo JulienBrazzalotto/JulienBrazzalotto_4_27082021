@@ -7,6 +7,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+blockquote{
+    border: none;
+    color: #333333;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -809,7 +814,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #000000;
+    background: #333333;
     color: #FFFFFF!important;
 }
 
